@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @timiredmind
 - 👀 I’m interested in Pyhton, django, javascript
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python (Flask and Django)
 - 💞️ I’m looking to collaborate on Django, Python
 - 📫 How to reach me 
-email: joshua_oladokun@gmail.com
+email: timulehinoladokun@gmail.com
 twitter: https://twitter.com/timi_oladokun
 
 <!---
